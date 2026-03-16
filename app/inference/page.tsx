@@ -59,7 +59,7 @@ export default function InferencePage() {
       return;
     }
     if (!API_URL) {
-      setError("Inference service is not configured.");
+      setError("Inference is temporarily unavailable. Please try again shortly.");
       return;
     }
 

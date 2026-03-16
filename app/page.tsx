@@ -8,9 +8,9 @@ export default function HomePage() {
           <p className="eyebrow">Clinical Imaging Demo</p>
           <h1 className="headline">PRISM-3D turns anatomy-aware segmentation into survival insight.</h1>
           <p className="hero-text">
-            Explore the frontend experience for segmentation-guided NSCLC prognosis.
-            Run the inference workflow, inspect generated visualizations, and review
-            the method background in one place.
+            Explore the full PRISM-3D workflow for segmentation-guided NSCLC prognosis.
+            Run inference, inspect generated visualizations, and review the
+            method background in one place.
           </p>
           <div className="hero-actions">
             <Link className="btn-primary" href="/inference">
@@ -55,7 +55,7 @@ export default function HomePage() {
         </article>
         <article className="feature-card fade-in delay-3">
           <h2>Research-first deployment</h2>
-          <p>Frontend can run independently now, with backend inference connected later.</p>
+          <p>An integrated workflow connects inference, visualization, and model review.</p>
         </article>
       </section>
     </main>
