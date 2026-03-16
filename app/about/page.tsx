@@ -53,7 +53,7 @@ export default function AboutPage() {
                     chasing the sweet spot where medicine meets machine learning. He wants
                     to become a physician, yet can't resist building medical AI.
                     On our team, he serves as the ML engineer, designing the end-to-end
-                    pipeline, training and tuning 3D models.
+                    pipeline, training and tuning 3D model systems of PRISM.
                   </p>
                 </div>
               </div>
@@ -69,12 +69,12 @@ export default function AboutPage() {
                 <div className="team-copy">
                   <h3>Nishanth Sathisha</h3>
                   <p>
-                    Nishanth is an incoming Georgia Tech mechanical engineering freshman
+                    Nishanth is an incoming Carnegie Mellon mechanical engineering freshman
                     who weirdly lives at the intersection of hardware brain and bio
                     curiosity. When he is not working on PRISM, he is probably geeking out
                     over golf as a side quest. On our
-                    team, he leads segmentation and biology, and is the key behind the
-                    anatomical reasoning behind the segmentation backbone of our model.
+                    team, he leads segmentation, and is the key behind the
+                    anatomical reasoning behind our model.
                   </p>
                 </div>
               </div>
